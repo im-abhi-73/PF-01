@@ -34,7 +34,7 @@ export const ProfilePicture: React.FC<ProfilePictureProps> = ({
 
   // Using a placeholder image URL - in a real app, you'd use the actual profile image
  // const profileImageUrl = "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400";
-  const profileImageUrl = "/public/Image/Ass.jpg?auto=compress&cs=tinysrgb&w=400";
+  const profileImageUrl = "https://www.dropbox.com/scl/fi/4qacgqrc65xkxizrlt2cb/Ass.jpg?rlkey=6r28yqr1n7rbeuat5nnfohthz&st=uej1idh4&dl=0";
 
   
   return (
